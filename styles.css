@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F8F4EC;
+}
+
+/* Warna baru sesuai palet */
+.text-gray-800 {
+    color: #D63484;
+}
+
+.text-gray-500 {
+    color: #FF9BD2;
+}
